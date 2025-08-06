@@ -12,12 +12,17 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "C#/.NET"
 url = "/elements"
 weight = 3
 
 [[main]]
+name = "Python"
+url = "/elements"
 weight = 4
+
+[[main]]
+weight = 5
 name = "Pages"
 
 [[main]]
@@ -56,8 +61,3 @@ weight = 1
 name = "Elements"
 url = "/elements"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
