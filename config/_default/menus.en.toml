@@ -13,13 +13,36 @@ weight = 2
 
 [[main]]
 name = "C#/.NET"
-url = "/elements"
 weight = 3
 
 [[main]]
-name = "Python"
+parent = "C#/.NET"
+name = "ASP.NET Core"
 url = "/elements"
+
+[[main]]
+parent = "C#/.NET"
+name = "CLR via C#"
+url = "/elements"
+
+[[main]]
+parent = "C#/.NET"
+name = "Roslyn"
+url = "/elements"
+
+[[main]]
+name = "Python"
 weight = 4
+
+[[main]]
+parent = "Python"
+name = "FastAPI"
+url = "/elements"
+
+[[main]]
+parent = "Python"
+name = "pandas"
+url = "/elements"
 
 [[main]]
 weight = 5
