@@ -35,6 +35,10 @@ name = "Python"
 weight = 4
 
 [[main]]
+name = "C++"
+weight = 5
+
+[[main]]
 parent = "Python"
 name = "FastAPI"
 url = "/elements"
