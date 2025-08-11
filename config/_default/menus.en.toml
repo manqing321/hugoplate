@@ -18,7 +18,7 @@ weight = 3
 [[main]]
 parent = "C#/.NET"
 name = "ASP.NET Core"
-url = "/elements"
+url = "/asp.net core"
 
 [[main]]
 parent = "C#/.NET"

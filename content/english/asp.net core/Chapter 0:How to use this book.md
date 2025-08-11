@@ -1,10 +1,12 @@
 ---
-title: "Chapter 0:How to Use This Book"
-date: 2025-08-11T21:33:19+08:00
+title: "Chapter 0: How to Use This Book"
+date: 2025-08-11T21:33:19+08:00 
+description: "First chapter"
+author: "Yajun Wen"
 draft: false
 ---
 
-# 如何使用这本书?
+## 如何使用这本书?
 
 我的回答是：直接上手！
 
